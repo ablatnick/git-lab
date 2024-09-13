@@ -10,7 +10,7 @@ Untracked files:
   (use "git add <file>..." to include in what will be committed)
 	README.md
 	answers.md
-	5. n branch master
+	5. no branch master
 
 No commits yet
 
